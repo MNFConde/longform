@@ -1,5 +1,5 @@
 ## Longform
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MNFConde/longform)
 Longform is a plugin for [Obsidian](https://obsidian.md) that helps you write and edit novels, screenplays, and other long projects. It lets you organize a series of notes, or _scenes_, into an ordered manuscript. It also supports single-note projects for shorter works.
 
 > [!TIP]
